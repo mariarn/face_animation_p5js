@@ -1,4 +1,4 @@
-# Face animation in p5.js and p5.play v.0.0.1 #
+Face animation in p5.js and p5.play v.0.0.1 #
 # by @mariarn 2019 
 # HTML, CSS, JavaScript
 # Libraries: P5.js, p5.play
