@@ -1,0 +1,22 @@
+/*
+* CSS Face animation in p5.js and p5.play v.0.0.1
+* by @mariarn 2019 
+* See other projects in:
+* https://codepen.io/mariarn
+* https://www.linkedin.com/in/mariajoserodrigueznistal/
+*/
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
